@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
   <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=saiduzzaman-sojib&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiduzzaman-sojib&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiduzzaman-sojib&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiduzzaman-sojib&layout=compact&theme=radical&hide_border=true" alt="languages graph" />
+</p>
